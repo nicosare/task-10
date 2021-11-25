@@ -1,4 +1,4 @@
-# task-10
+# task-10 Галкин Даниил
 ***
 ## Время работы старого фильтра:
 ![время работы старого фильтра](https://github.com/nicosare/task-10/blob/main/screenshots/old_filter.png)
